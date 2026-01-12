@@ -26,7 +26,7 @@ maintainers = [
 requires-python = ">=3.12"
 dependencies = [
     "numpy~=2.3.4", # Basic array and matrix operations
-    "scipy~=1.16.2", # Used for constants, interpolation and fitting.
+    "scipy~=1.17.0", # Used for constants, interpolation and fitting.
 ]
 optional-dependencies.gui = [
     "PyQt6~=6.10", # For GUI
